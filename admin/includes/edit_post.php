@@ -50,7 +50,7 @@
 
 
 			}
-			//guery
+			//guery sd
 			$query = "UPDATE posts SET ";
 			$query .= "post_title    = '{$post_title}', ";
 			$query .= "post_category_id = '{$post_category_id}', ";
